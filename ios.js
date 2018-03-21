@@ -12,7 +12,7 @@ date = moment.utc().format('YYYY-MM-DD HH:mm:ss').toString();
 
 var array = {
     'MERCHANT' : "OPU_TEST",
-    'REFNOEXT' : "7304",
+    'REFNOEXT' : "f2056638-0470-4158-af5d-9ec9c0c7ee67",
 };
 
 hashstring = '';
